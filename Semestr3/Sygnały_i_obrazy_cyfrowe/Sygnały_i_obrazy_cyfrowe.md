@@ -11,7 +11,10 @@
 
 ## Opis
 Ocena końcowa z kursu: **4.5**
+
 **Labolatorium:** https://github.com/devoid-of-thought/SiOC
+
 [**Sprawozdanie nr 1**](./Sprawozdanie_nr_1_Skalowanie_Obrazów_SiOC_Mikołaj_Nowak_280082.pdf)
+
 [**Sprawozdanie nr 2**](./Sprawozdanie_nr_2_Zastosowania_Konwolucji_SiOC_Mikołaj_Nowak_280082.pdf)
 

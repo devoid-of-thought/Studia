@@ -11,4 +11,5 @@
 
 ## Opis
 Ocena końcowa z kursu: **5.5**
+
 [Materiały do zajęć](https://w-tarnawski.pl/materialy-do-zajec/elementy-elektroniki-i-elektrotechniki/)

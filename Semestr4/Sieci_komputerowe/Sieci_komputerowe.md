@@ -12,4 +12,5 @@
 
 ## Opis
 Ocena końcowa z kursu: **4.0**
+
 [Certyfikat Cisco](./_certificate_280082-student-pwr-edu-pl_66722a27-318a-4f5d-91d2-6fd62047e92e.pdf)

@@ -12,4 +12,5 @@
 
 ## Opis
 Ocena końcowa z kursu: **5.0**
+
 [Materiały do zajęć](./https://w-tarnawski.pl/materialy-do-zajec/technika-cyfrowa-i-mikroprocesorowa/)

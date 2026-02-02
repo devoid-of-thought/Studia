@@ -11,7 +11,11 @@
 
 ## Opis
 Ocena końcowa z kursu: **4.5**
+
 [**Projekt nr 1**](./Projekt1/Projekt1.md)
+
 [**Projekt nr 2**](./Projekt2/Projekt2.md)
+
 [**Projekt nr 34**](./Projekt34/Projekt34.md)
+
 
