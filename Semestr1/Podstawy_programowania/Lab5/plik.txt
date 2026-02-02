@@ -1,0 +1,4 @@
+123456 Adam Kowalski m 10-10-1997
+223344 Janina Nowak k 03-12-1950
+121212 Paulina Adamska k 23-04-2001
+987654 Marek Markowski m 15-03-1978
