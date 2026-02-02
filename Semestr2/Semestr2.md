@@ -14,3 +14,4 @@
 | **W04ISA-SI0001W** | [Podstawy telekomunikacji](./Podstawy_telekomunikacji/Podstawy_telekomunikacji.md) | 3.5 | - | - | **3.5** |
 | **W04ISA-SI0037W** | [Rachunek prawdopodobieństwa](./Rachunek_prawdopodobieństwa/Rachunek_prawdopodobieństwa.md) | 3.5 | - | - | **3.5** |
 | **SWF000-S02032C** | [Judo dla początkujących](./WF_Judo/WF_Judo.md) | - | 3.5 | - | **3.5** |
+ 
