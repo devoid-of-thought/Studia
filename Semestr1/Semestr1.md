@@ -13,3 +13,4 @@
 | **W08W04-SI0004W** | [Filozofia](./Filozofia/Filozofia.md) | 5.0 | - | - | **5.0** |
 | **W08W04-SI0002W** | [Własność intelektualna i prawo autorskie](./Własność_intelektualna/Własność_intelektualna.md) | 3.5 | - | - | **3.5** |
 | **BHP0000W** | Szkolenie BHP | - | - | - | **Zal.** |
+ 
