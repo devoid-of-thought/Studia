@@ -12,9 +12,9 @@
 ## Opis
 Ocena końcowa z kursu: **4.5**
 1. **Rozwiązania zadań z ćwiczeń:** 
-	- [lista2.doc](./lista2.doc)
+	- [Lista2.docx](./Lista2.docx)
 	- [lista4.c](./lista4.c)
-	- [lista4.pdf](./lista4.pdf)
+	- [lista4.pdf](./lista4-280082.pdf)
 2. **Kartkówki i kolosy z ćwiczeń:**
 	- 5/5
 	- 5/5
