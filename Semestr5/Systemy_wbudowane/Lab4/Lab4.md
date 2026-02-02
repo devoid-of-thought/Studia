@@ -1,3 +1,3 @@
 [Zadanie](./Lab4.pdf)
 
-[Rozwiązanie](./SW_lab4.py)
+[Rozwiązanie](./SW_Lab4.py)
