@@ -13,4 +13,5 @@
 Ocena końcowa z kursu: **5**
 [Projekt - Wirtualne okno - Film Youtube](https://www.youtube.com/watch?v=m_2hTsebMEM)
 [Sprawozdanie](./gkigui.pdf)
-[Prezentacja](./gkigui#7.pptx)
+
+[Prezentacja](./gkigui.pptx)
