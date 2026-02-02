@@ -13,6 +13,6 @@
 ## Opis
 Ocena końcowa z kursu: **-**
 
-[Projekt 1](./Mzyk_1)
-[Projekt 2](./Mzyk_2)
-[Projekt 3](./Mzyk_3)
+[Projekt 1](./Mzyk_1.pdf)
+[Projekt 2](./Mzyk_2.pdf)
+[Projekt 3](./Mzyk_3.pdf)
