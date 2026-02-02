@@ -16,5 +16,5 @@ Ocena końcowa z kursu: **4.5**
 	- [Sprawozdanie nr 1](./Mikołaj_Nowak_280082_Nathan_Smyrek_280166_Struktury_danych_Projekt_nr_1_Środa_TP_15_15.pdf)
 2. [**Projekt nr 2**](https://github.com/devoid-of-thought/Strunktury_Danych_Projekt_nr_2)
 	- [Sprawozdanie nr 2 ](./Mikołaj_Nowak_280082_Nathan_Smyrek_280166_Struktury_danych_Projekt_nr_2_Środa_TP_15_15.pdf)
-3. [**Projekt nr 3: Szachy**](https://github.com/Vexmeritmen/StrukturyDanych3)
+3. [**Projekt nr 3**](https://github.com/Vexmeritmen/StrukturyDanych3)
 	- [Sprawozdanie nr 3 ](./Mikołaj_Nowak_280082_Nathan_Smyrek_280166_Struktury_danych_Projekt_nr_3_Środa_TP_15_15.pdf)

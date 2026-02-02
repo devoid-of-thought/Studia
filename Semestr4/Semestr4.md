@@ -4,7 +4,7 @@
 
 | Kod kursu | Przedmiot | Wykład | Lab | Projekt | Ocena końcowa |
 |:---:|---|:---:|:---:|:---:|:---:|
-| **SJO000-SI0041C** | [Język angielski / C1.2](./Język_angielski_C1.2/Język_angielski_C1.2.md) | - | - | - | **5.0** |
+| **SJO000-SI0041C** | [Angielski_C1.2](./Angielski_C1.2/Angielski_C1.2.md) | - | - | - | **5.0** |
 | **W04ISA-SI0013G** | [Projektowanie i analiza algorytmów](./Projektowanie_i_analiza_algorytmów/Projektowanie_i_analiza_algorytmów.md) | - | - | 4.5 | **4.5** |
 | **W04ISA-SI0011G** | [Sieci komputerowe](./Sieci_komputerowe/Sieci_komputerowe.md) | - | 5.0 | - | **4.0** |
 | **W04ISA-SI0012G** | [Struktury danych](./Struktury_danych/Struktury_danych.md) | - | - | 4.5 | **4.5** |
