@@ -15,5 +15,5 @@ Ocena końcowa z kursu: **-**
 
 1. [Projekt](https://github.com/RareIcubu/Podstawy-AI)
 	- [Sprawozdanie](./Podstawy_AI.pdf)
-	- [Prezentacja - pdf](./Prezentacja Końcowa.pdf)	
-	- [Prezentacja - pptx](./Prezentacja Końcowa.pptx)
+	- [Prezentacja - pdf](./Prezentacja_Końcowa.pdf)	
+	- [Prezentacja - pptx](./Prezentacja_Końcowa.pptx)

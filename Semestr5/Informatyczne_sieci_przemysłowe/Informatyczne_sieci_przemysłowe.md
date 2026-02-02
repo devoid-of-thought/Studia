@@ -12,8 +12,11 @@
 
 ## Opis
 Ocena końcowa z kursu: **-**
+
 [Sprawozdanie - GET/PUT](./Nowak_Jasiński_GET_PUT.pdf)
+
 [Sprawozdanie - PROFIBUS](./Nowak_Jasiński_PROFIBUS.pdf)
+
 [Sprawozdanie - Versa_Max](./Nowak_Jasiński_Versa_Max.pdf)
 
 
