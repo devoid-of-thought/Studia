@@ -12,5 +12,5 @@
 | **W04ISA-SI0002G** | [Paradygmaty programowania obiektowego](./Paradygmaty_programowania_obiektowego/Paradygmaty_programowania_obiektowego.md) | - | - | 5.0 | **4.5** |
 | **W04ISA-SI0035W** | [Podstawy automatyki i robotyki](./Podstawy_automatyki/Podstawy_automatyki.md) | 4.5 | - | - | **4.5** |
 | **W04ISA-SI0001W** | [Podstawy telekomunikacji](./Podstawy_telekomunikacji/Podstawy_telekomunikacji.md) | 3.5 | - | - | **3.5** |
-| **W04ISA-SI0037W** | [Rachunek prawdopodobieństwa](./Rachunek_prawdopodobienstwa/Rachunek_prawdopodobienstwa.md) | 3.5 | - | - | **3.5** |
+| **W04ISA-SI0037W** | [Rachunek prawdopodobieństwa](./Rachunek_prawdopodobieństwa/Rachunek_prawdopodobieństwa.md) | 3.5 | - | - | **3.5** |
 | **SWF000-S02032C** | [Judo dla początkujących](./WF_Judo/WF_Judo.md) | - | 3.5 | - | **3.5** |
