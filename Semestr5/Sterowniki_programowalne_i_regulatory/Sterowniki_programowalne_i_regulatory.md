@@ -6,9 +6,9 @@
 
 | Forma zajęć | Prowadzący | Ocena |
 |---|---|---|
-| **Wykład** | Adam Ratajczak | **-** |
+| **Wykład** | Adam Ratajczak | **4.5** |
 | **Laboratorium** | Marek Skowron | **4.0** |
 
 ## Opis
-Ocena końcowa z kursu: **-**
+Ocena końcowa z kursu: **4.5**
 

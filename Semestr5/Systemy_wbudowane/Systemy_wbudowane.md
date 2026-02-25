@@ -6,11 +6,11 @@
 
 | Forma zajęć | Prowadzący | Ocena |
 |---|---|---|
-| **Wykład** | Wojciech Rafajłowicz | **-** |
+| **Wykład** | Wojciech Rafajłowicz | **5.0** |
 | **Laboratorium** | Mateusz Kucharski | **5.0** |
 
 ## Opis
-Ocena końcowa z kursu: **-**
+Ocena końcowa z kursu: **5.0**
 
 [Lab1](./Lab1/Lab1.md)
 

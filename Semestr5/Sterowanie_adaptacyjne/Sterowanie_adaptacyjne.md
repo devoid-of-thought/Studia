@@ -7,11 +7,11 @@
 
 | Forma zajęć | Prowadzący | Ocena |
 |---|---|---|
-| **Wykład** | Grzegorz Mzyk | **-** |
+| **Wykład** | Grzegorz Mzyk | **4.5** |
 | **Projekt** | Grzegorz Mzyk | **5.0** |
 
 ## Opis
-Ocena końcowa z kursu: **-**
+Ocena końcowa z kursu: **5.0**
 
 [Projekt 1](./Mzyk_1.pdf)
 

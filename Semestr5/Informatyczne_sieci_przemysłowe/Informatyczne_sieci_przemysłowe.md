@@ -7,11 +7,11 @@
 
 | Forma zajęć | Prowadzący | Ocena |
 |---|---|---|
-| **Wykład** | Jacek Jagodziński | **-** |
-| **Laboratorium** | Paweł Dobrowolski | **-** |
+| **Wykład** | Jacek Jagodziński | **4.0** |
+| **Laboratorium** | Paweł Dobrowolski | **5.0** |
 
 ## Opis
-Ocena końcowa z kursu: **-**
+Ocena końcowa z kursu: **4.0**
 
 [Sprawozdanie - GET/PUT](./Nowak_Jasiński_GET_PUT.pdf)
 
