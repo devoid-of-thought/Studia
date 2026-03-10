@@ -7,11 +7,11 @@
 
 | Forma zajęć | Prowadzący | Ocena |
 |---|---|---|
-| **Wykład** | Piotr Ciskowski | **-** |
-| **Projekt** | Aneta Górniak | **-** |
+| **Wykład** | Piotr Ciskowski | **5.0** |
+| **Projekt** | Aneta Górniak | **5.0** |
 
 ## Opis
-Ocena końcowa z kursu: **-**
+Ocena końcowa z kursu: **5.0**
 
 1. [Projekt](https://github.com/RareIcubu/Podstawy-AI)
 	- [Sprawozdanie](./Podstawy_AI.pdf)

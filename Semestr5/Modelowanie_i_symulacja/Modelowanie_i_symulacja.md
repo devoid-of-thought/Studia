@@ -7,11 +7,11 @@
 
 | Forma zajęć | Prowadzący | Ocena |
 |---|---|---|
-| **Wykład** | Anna Czemplik | **-** |
-| **Laboratorium** | Anna Czemplik | **-** |
+| **Wykład** | Anna Czemplik | **4.5** |
+| **Laboratorium** | Anna Czemplik | **4.5** |
 
 ## Opis
-Ocena końcowa z kursu: **-**
+Ocena końcowa z kursu: **4.5**
 1. Labolatoria
 	- [Badania](./Badania)
 		- [Sprawozdanie nr 1](./Badania/MiS1.pdf)
