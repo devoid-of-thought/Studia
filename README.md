@@ -138,24 +138,14 @@
 
 ```
 ├── Komputerowo_Zintegrowane_Wytwarzanie
-│   └── Komputerowo_Zintegrowane_Wytwarzanie.md
 ├── Metody_Numeryczne
-│   └── Metody_Numeryczne.md
 ├── Metody_Sztucznej_Inteligencji
-│   └── Metody_Sztucznej_Inteligencji.md
 ├── Platformy_Programistyczne_Net_i_Java
-│   └── Platformy_Programistyczne_Net_i_Java.md
 ├── Praktyka_Programowania
-│   └── Praktyka_Programowania.md
 ├── Programowanie_Aplikacji_Mobilnych
-│   └── Programowanie_Aplikacji_Mobilnych.md
 ├── Programowanie_Maszyn_CNC
-│   └── Programowanie_Maszyn_CNC.md
 ├── Projekt_Zespołowy
-│   └── Projekt_Zespołowy.md
-├── Semestr6.md
 └── Systemy_Wizyjne
-    └── Systemy_Wizyjne.md
 
 
 ```
